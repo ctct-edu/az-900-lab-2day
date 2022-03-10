@@ -35,7 +35,7 @@ lab:
     >
     > 　 その場合はお手数となりますが、お手持ちの携帯電話番号の入力をお願いいたします。
 
-    ![lab00-01](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-02.png)
+    ![lab00-01](./images/lab00-02.png)
     
     | 設定                  | 値                 |
     | --------------------- | ------------------ |
@@ -50,7 +50,7 @@ lab:
 
 1. 「**Start**」をクリックし、Microsoft アカウント(ctcXXXX@outlook.jp)でサインインします。
 
-    ![lab00-03](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-03.png)
+    ![lab00-03](./images/lab00-03.png)
 
     ------
 
@@ -62,7 +62,7 @@ lab:
 
     アカウントが違う場合は画面右上のサインアウトを行い、正しいアカウントで認証してください。
 
-    ![lab00-04](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-04.png)
+    ![lab00-04](./images/lab00-04.png)
 
     ------
 
@@ -72,13 +72,13 @@ lab:
 
     > **注**:(Promo code は講師よりチャットまたは PDF で提供されます。)
 
-    ![lab00-05](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-05.png)
+    ![lab00-05](./images/lab00-05.png)
 
 1. 入力後、画面が遷移するまで、そのままお待ちください。
 
 1. 画面が切り替わりましたら、以下の項目を入力してください。 入力が完了しましたら、[次へ]を押してください。
 
-    ![lab00-07](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-07.png)
+    ![lab00-07](./images/lab00-07.png)
 
     | 設定 | 値 |
     | --- | --- |
@@ -96,19 +96,19 @@ lab:
 
 1. 「**サブスクリプション契約、オファーの詳細、プライバシーに関する声明に同意します。**」 にチェックを入れ、「**サインアップ**」を押してください。
 
-    ![lab00-08](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-08.png)
+    ![lab00-08](./images/lab00-08.png)
 
 1. 画面が切り替わりましたら、「**このサインアップエクスペリエンスに満足していますか？**」 を評価し、送信を押してください。
 
     しばらくすると画面が Azure Portal に切り替わります。
 
-    ![lab00-09](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-09.png)
+    ![lab00-09](./images/lab00-09.png)
 
 1. Azure Portal の画面に切り替わりましたら、準備完了です。必要に応じて、[ツアーの開始]か[後で行う]を選択してください。
 
     > **注**:もう一度、ツアーを見る場合は画面右上の[？]アイコンを押して、[ガイド ツアーの起動] を選択してください。）
     
-    ![lab00-10](C:\Users\Administrator\Documents\GitHub\az-104-lab\LabManual\media\lab00-10.png)
+    ![lab00-10](./images/lab00-10.png)
 
 
 
