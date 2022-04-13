@@ -19,4 +19,4 @@
 
 ## 演習の始め方
 
-まず初めに「[Lab00_01_Preparation]()」を参照し、演習用アカウントの準備を開始してください。
+まず初めに「**[Lab00_01_Preparation](https://github.com/ctct-edu/az-900-lab-2day/blob/main/LabManual/00-Preparation.md)**」を参照し、演習用アカウントの準備を開始してください。
