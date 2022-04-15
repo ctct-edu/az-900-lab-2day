@@ -10,7 +10,7 @@ wts:
 **注**: このチュートリアルでは、情報アイコンをクリックして読む時間を設けてください。 
 
 # タスク 1: 仮想マシンを作成する 
-1. Azure portal　([https://portal.azure.com](https://portal.azure.com)) にサインインします
+1. Azure portal　([https://portal.azure.com](https://portal.azure.com)) にサインインします。
 
 2. Azure portalで、「**Virtual Machines**」を検索して選択し、「**+ 作成**」をクリックして、ドロップダウンから「**Azure 仮想マシン**」を選択します。
 
