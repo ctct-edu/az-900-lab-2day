@@ -19,7 +19,7 @@ wts:
     | --- | --- |
     | サブスクリプション | **Azure Pass - スポンサープラン** |
     | リソース グループ | **az900-12-rg1** |
-    | Key Vault 名 | **keyvaulttestxxx** |
+    | Key Vault 名 | **keyvaulttestxxxx** |
     | 地域 | **East US** |
     | 価格レベル | **標準** |
     
