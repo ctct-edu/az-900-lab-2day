@@ -55,7 +55,7 @@ lab:
      | ランタイムスタック | **.NET Core 3.1(LTS)** |
      | 地域               | **East US**            |
 
-     > 注：XXXXはアカウント名の数字4桁を入力します。 (例：ctc0001@outlook.jp  ⇒ 0001)
+     > 注：XXXXはアカウント名の数字4桁を入力します。 (例：`ctc0001@outlook.jp`  ⇒ 0001)
      >
      
      ![AZ900_Lab2_05](./images/02_05.png)
