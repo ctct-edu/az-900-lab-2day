@@ -25,7 +25,7 @@ wts:
 
     ![VM 名が変更されたテンプレートのスクリーンショット。](./images/0901.png)
 
-6. テンプレートにより必要とされるパラメーターを構成します (DNS ラベルのプレフィックスの ***xxxx*** をグローバルで一意になるように文字と数字で置き換えます)。その他は既定値のままにします。 
+6. テンプレートにより必要とされるパラメーターを構成します (DNS ラベルのプレフィックスの **XXXX** をグローバルで一意になるように文字と数字で置き換えます)。その他は既定値のままにします。 
 
     | 設定| 値|
     |----|----|
@@ -34,7 +34,7 @@ wts:
     | リージョン | **East US** |
     | Admin Username | **Student** |
     | Admin Password | **Pa55w.rd1234** |
-    | Dns Label Prefix | **myvmtemplate0413** |
+    | Dns Label Prefix | **myvmtemplateXXXX** |
     | OS バージョン | **2019-datacenter-gensecond** |
 
 
