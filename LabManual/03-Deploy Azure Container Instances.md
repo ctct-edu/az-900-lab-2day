@@ -59,7 +59,7 @@ wts:
 
   ![FQDN が強調表示された、Azure Portal で新しく作成されたコンテナーの概要ペインのスクリーンショット。 ](./images/0202.png)
 
-4. 新しいブラウザー ウィンドウでき、URl を貼り付けて、Enter キーを押します。Azure Container Instance へようこそ! ウェルカム メッセージが表示されます。 
+4. 新しいブラウザー ウィンドウでき、FQDN を貼り付けて、Enter キーを押します。Azure Container Instance へようこそ! ウェルカム メッセージが表示されます。 
 
   ![Web ブラウザーに表示される ACI ウェルカム メッセージのスクリーンショット。](./images/0802.png)
 
