@@ -23,7 +23,7 @@ wts:
     | 仮想マシン名 | **az900-01-vm1** |
     | 地域 | **(US) East US**|
     | 可用性オプション | インフラストラクチャ冗長は必要ありません |
-    | イメージ | **Windows Server 2019 Datacenter - Gen2**|
+    | イメージ | **Windows Server 2019 Datacenter - x64 Gen2**|
     | サイズ | **Standard D2s v3**|
     | ユーザー名 | **Student** |
     | パスワード | **Pa55w.rd1234** |
